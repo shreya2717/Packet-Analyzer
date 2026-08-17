@@ -1,0 +1,13 @@
+﻿# Compiled binaries
+dpi_engine
+dpi_engine.exe
+*.exe
+*.o
+*.obj
+# Generated packet captures
+output.pcap
+# VS Code
+.vscode/
+# Python cache
+__pycache__/
+*.pyc
